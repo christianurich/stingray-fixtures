@@ -39,5 +39,5 @@ If fixtures change in Dribl, the feed is republished to the same URL.
 - The feeds are intentionally kept separate, not combined.
 ## Disclaimer
 
-These feeds are provided as a convenience only. There is no warranty that entries are complete, accurate, or up to date, and you should always double-check fixtures, times, and venues against the official source.
+These feeds are provided as a convenience only. There is no warranty that fixtures, times, venues, or team invites are complete, accurate, or up to date. Always double-check against the official Dribl fixtures, club communications, and any team invites.
 
