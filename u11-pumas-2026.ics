@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenClaw//Aspendale Soccer//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aspendale U11 Pumas 2026
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VTIMEZONE
+TZID:Australia/Melbourne
+X-LIC-LOCATION:Australia/Melbourne
+BEGIN:STANDARD
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:u11pumas-20260502-1030@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260502T103000
+DTEND;TZID=Australia/Melbourne:20260502T113000
+SUMMARY:U11 Pumas vs Berwick City SC U11 Sharks
+LOCATION:Aspendale Gardens Sports Ground Pitch 1B\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
+DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Berwick City SC U11 MiniRoos - Wallabies Mixed U11 Sharks
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260509-1000@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260509T100000
+DTEND;TZID=Australia/Melbourne:20260509T110000
+SUMMARY:U11 Pumas vs Chelsea FC U11 Cafu
+LOCATION:Edithvale Common Pitch 2B\, 109-115 Edithvale Rd\, Edithvale VIC 3196
+DESCRIPTION:Chelsea FC U11 MiniRoos - Wallabies Mixed Cafu vs Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260516-1030@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260516T103000
+DTEND;TZID=Australia/Melbourne:20260516T113000
+SUMMARY:U11 Pumas vs Chelsea FC U11 Wolves
+LOCATION:Aspendale Gardens Sports Ground Pitch 1B
+DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Chelsea FC U11 MiniRoos - Wallabies Mixed Wolves
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260523-1000@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260523T100000
+DTEND;TZID=Australia/Melbourne:20260523T110000
+SUMMARY:U11 Pumas vs Berwick City SC U11 Tigers
+LOCATION:Jack Thomas Reserve Junior 1 (9v9)
+DESCRIPTION:Berwick City SC U11 MiniRoos - Wallabies Mixed U11 Tigers vs Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260530-0900@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260530T090000
+DTEND;TZID=Australia/Melbourne:20260530T100000
+SUMMARY:U11 Pumas vs Hampton Park United Sparrows U11
+LOCATION:Aspendale Gardens Sports Ground Pitch 4B
+DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Hampton Park United Sparrows FC U11 MiniRoos - Wallabies Mixed U11
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260613-1030@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260613T103000
+DTEND;TZID=Australia/Melbourne:20260613T113000
+SUMMARY:U11 Pumas vs Endeavour United SC U11 Christophe
+LOCATION:Reema Reserve Pitch 2A
+DESCRIPTION:Endeavour United SC U11 MiniRoos - Wallabies Mixed Christophe vs Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260620-0900@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260620T090000
+DTEND;TZID=Australia/Melbourne:20260620T100000
+SUMMARY:U11 Pumas vs Casey Panthers Red Panthers
+LOCATION:Aspendale Gardens Sports Ground Pitch 4B
+DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Casey Panthers SC U11 MiniRoos - Wallabies Mixed Red Panthers
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260627-1000@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260627T100000
+DTEND;TZID=Australia/Melbourne:20260627T110000
+SUMMARY:U11 Pumas vs Berwick City SC U11 Sharks
+LOCATION:Jack Thomas Reserve Junior 2 (9v9)
+DESCRIPTION:Berwick City SC U11 MiniRoos - Wallabies Mixed U11 Sharks vs Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260711-0900@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260711T090000
+DTEND;TZID=Australia/Melbourne:20260711T100000
+SUMMARY:U11 Pumas vs Chelsea FC U11 Cafu
+LOCATION:Aspendale Gardens Sports Ground Pitch 1B
+DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Chelsea FC U11 MiniRoos - Wallabies Mixed Cafu
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260718-1100@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260718T110000
+DTEND;TZID=Australia/Melbourne:20260718T120000
+SUMMARY:U11 Pumas vs Chelsea FC U11 Wolves
+LOCATION:Edithvale Common Pitch 2A
+DESCRIPTION:Chelsea FC U11 MiniRoos - Wallabies Mixed Wolves vs Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260725-1030@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260725T103000
+DTEND;TZID=Australia/Melbourne:20260725T113000
+SUMMARY:U11 Pumas vs Berwick City SC U11 Tigers
+LOCATION:Aspendale Gardens Sports Ground Pitch 1B
+DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Berwick City SC U11 MiniRoos - Wallabies Mixed U11 Tigers
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260801-1000@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260801T100000
+DTEND;TZID=Australia/Melbourne:20260801T110000
+SUMMARY:U11 Pumas vs Hampton Park United Sparrows U11
+LOCATION:KM Reedy Reserve Junior
+DESCRIPTION:Hampton Park United Sparrows FC U11 MiniRoos - Wallabies Mixed U11 vs Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260808-1030@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260808T103000
+DTEND;TZID=Australia/Melbourne:20260808T113000
+SUMMARY:U11 Pumas vs Endeavour United SC U11 Christophe
+LOCATION:Aspendale Gardens Sports Ground Pitch 1B
+DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Endeavour United SC U11 MiniRoos - Wallabies Mixed Christophe
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260815-0900@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260815T090000
+DTEND;TZID=Australia/Melbourne:20260815T100000
+SUMMARY:U11 Pumas vs Casey Panthers Red Panthers
+LOCATION:Prospect Hill Reserve Main Pitch - 9v9 (A)
+DESCRIPTION:Casey Panthers SC U11 MiniRoos - Wallabies Mixed Red Panthers vs Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260822-1030@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260822T103000
+DTEND;TZID=Australia/Melbourne:20260822T113000
+SUMMARY:U11 Pumas vs Berwick City SC U11 Sharks
+LOCATION:Aspendale Gardens Sports Ground Pitch 1B
+DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Berwick City SC U11 MiniRoos - Wallabies Mixed U11 Sharks
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260829-1000@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260829T100000
+DTEND;TZID=Australia/Melbourne:20260829T110000
+SUMMARY:U11 Pumas vs Chelsea FC U11 Cafu
+LOCATION:Edithvale Common Pitch 2B\, 109-115 Edithvale Rd\, Edithvale VIC 3196
+DESCRIPTION:Chelsea FC U11 MiniRoos - Wallabies Mixed Cafu vs Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260905-0900@openclaw
+DTSTAMP:20260502T043600Z
+DTSTART;TZID=Australia/Melbourne:20260905T090000
+DTEND;TZID=Australia/Melbourne:20260905T100000
+SUMMARY:U11 Pumas vs Chelsea FC U11 Wolves
+LOCATION:Aspendale Gardens Sports Ground Pitch 4B
+DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Chelsea FC U11 MiniRoos - Wallabies Mixed Wolves
+END:VEVENT
+END:VCALENDAR
