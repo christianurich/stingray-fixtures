@@ -37,3 +37,7 @@ If fixtures change in Dribl, the feed is republished to the same URL.
 - Keep using the same URL, subscriber calendars refresh automatically.
 - Refresh timing is controlled by Apple/Google Calendar, not by GitHub.
 - The feeds are intentionally kept separate, not combined.
+## Disclaimer
+
+These feeds are provided as a convenience only. There is no warranty that entries are complete, accurate, or up to date, and you should always double-check fixtures, times, and venues against the official source.
+
