@@ -28,7 +28,7 @@ UID:u8dragons-20260502-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260502T090000
 DTEND;TZID=Australia/Melbourne:20260502T100000
-SUMMARY:U8 U8 Dragons vs Berwick City SC U8 U8 Eagles
+SUMMARY:U8 Dragons: Berwick City SC U8 Eagles vs Aspendale SC U8 Dragons
 LOCATION:Jack Thomas Reserve Junior 2 (7v7)\, Berwick City SC\, Fox Road\, Narre Warren North VIC 3805
 DESCRIPTION:Berwick City SC U08 MiniRoos - Joeys Mixed U8 Eagles vs Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys
 END:VEVENT
@@ -37,7 +37,7 @@ UID:u8dragons-20260509-1030@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260509T103000
 DTEND;TZID=Australia/Melbourne:20260509T113000
-SUMMARY:U8 U8 Dragons vs U8 U8 Pegasus
+SUMMARY:U8 Dragons: Aspendale SC U8 Dragons vs Aspendale SC U8 Pegasus
 LOCATION:Aspendale Gardens Sports Ground Pitch 1A\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
 DESCRIPTION:Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys vs Aspendale SC U08 MiniRoos - Joeys Mixed U8 Pegasus (Sat) Boys
 END:VEVENT
@@ -46,7 +46,7 @@ UID:u8dragons-20260516-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260516T090000
 DTEND;TZID=Australia/Melbourne:20260516T100000
-SUMMARY:U8 U8 Dragons vs FC Noble Hurricanes U8 MiniRoos - Joeys Mixed
+SUMMARY:U8 Dragons: FC Noble Hurricanes U8 MiniRoos - Joeys Mixed vs Aspendale SC U8 Dragons
 LOCATION:Alex Nelson Reserve Main Pitch - Midi Pitch B\, Harrisfield Hurricanes SC\, 31-57 Harold Road\, Springvale South VIC 3172
 DESCRIPTION:FC Noble Hurricanes U08 MiniRoos - Joeys Mixed vs Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys
 END:VEVENT
@@ -55,7 +55,7 @@ UID:u8dragons-20260523-1025@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260523T102500
 DTEND;TZID=Australia/Melbourne:20260523T112500
-SUMMARY:U8 U8 Dragons vs Chelsea FC U8 Blues
+SUMMARY:U8 Dragons: Aspendale SC U8 Dragons vs Chelsea FC U8 Blues
 LOCATION:Aspendale Gardens Sports Ground Pitch 1A\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
 DESCRIPTION:Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys vs Chelsea FC U08 MiniRoos - Joeys Mixed Blues
 END:VEVENT
@@ -64,7 +64,7 @@ UID:u8dragons-20260530-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260530T090000
 DTEND;TZID=Australia/Melbourne:20260530T100000
-SUMMARY:U8 U8 Dragons vs Casey Panthers SC U8 Yellow Panthers
+SUMMARY:U8 Dragons: Casey Panthers SC U8 Yellow Panthers vs Aspendale SC U8 Dragons
 LOCATION:Prospect Hill Reserve Main Pitch - 7v7 (A)\, Casey Panthers Junior SC\, Kurrajong Road\, Narre Warren VIC 3805
 DESCRIPTION:Casey Panthers SC U08 MiniRoos - Joeys Mixed Yellow Panthers vs Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys
 END:VEVENT
@@ -73,7 +73,7 @@ UID:u8dragons-20260613-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260613T090000
 DTEND;TZID=Australia/Melbourne:20260613T100000
-SUMMARY:U8 U8 Dragons vs Hampton Park United Sparrows FC U8 U8
+SUMMARY:U8 Dragons: Aspendale SC U8 Dragons vs Hampton Park United Sparrows FC U8
 LOCATION:Aspendale Gardens Sports Ground Pitch 1A\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
 DESCRIPTION:Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys vs Hampton Park United Sparrows FC U08 MiniRoos - Joeys Mixed U8
 END:VEVENT
@@ -82,7 +82,7 @@ UID:u8dragons-20260620-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260620T090000
 DTEND;TZID=Australia/Melbourne:20260620T100000
-SUMMARY:U8 U8 Dragons vs Chelsea FC U8 Avengers
+SUMMARY:U8 Dragons: Aspendale SC U8 Dragons vs Chelsea FC U8 Avengers
 LOCATION:Aspendale Gardens Sports Ground Pitch 4A\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
 DESCRIPTION:Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys vs Chelsea FC U08 MiniRoos - Joeys Mixed Avengers
 END:VEVENT
@@ -91,7 +91,7 @@ UID:u8dragons-20260627-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260627T090000
 DTEND;TZID=Australia/Melbourne:20260627T100000
-SUMMARY:U8 U8 Dragons vs Berwick City SC U8 U8 Eagles
+SUMMARY:U8 Dragons: Aspendale SC U8 Dragons vs Berwick City SC U8 Eagles
 LOCATION:Aspendale Gardens Sports Ground Pitch 4A\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
 DESCRIPTION:Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys vs Berwick City SC U08 MiniRoos - Joeys Mixed U8 Eagles
 END:VEVENT
@@ -100,7 +100,7 @@ UID:u8dragons-20260711-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260711T090000
 DTEND;TZID=Australia/Melbourne:20260711T100000
-SUMMARY:U8 U8 Pegasus vs U8 U8 Dragons
+SUMMARY:U8 Dragons: Aspendale SC U8 Pegasus vs Aspendale SC U8 Dragons
 LOCATION:Aspendale Gardens Sports Ground Pitch 1A\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
 DESCRIPTION:Aspendale SC U08 MiniRoos - Joeys Mixed U8 Pegasus (Sat) Boys vs Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys
 END:VEVENT
@@ -109,7 +109,7 @@ UID:u8dragons-20260718-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260718T090000
 DTEND;TZID=Australia/Melbourne:20260718T100000
-SUMMARY:U8 U8 Dragons vs FC Noble Hurricanes U8 MiniRoos - Joeys Mixed
+SUMMARY:U8 Dragons: Aspendale SC U8 Dragons vs FC Noble Hurricanes U8 MiniRoos - Joeys Mixed
 LOCATION:Aspendale Gardens Sports Ground Pitch 4A\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
 DESCRIPTION:Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys vs FC Noble Hurricanes U08 MiniRoos - Joeys Mixed
 END:VEVENT
@@ -118,7 +118,7 @@ UID:u8dragons-20260725-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260725T090000
 DTEND;TZID=Australia/Melbourne:20260725T100000
-SUMMARY:U8 U8 Dragons vs Chelsea FC U8 Blues
+SUMMARY:U8 Dragons: Chelsea FC U8 Blues vs Aspendale SC U8 Dragons
 LOCATION:Edithvale Common Pitch 1A Midi\, 109-115 Edithvale Rd\, Edithvale VIC 3196
 DESCRIPTION:Chelsea FC U08 MiniRoos - Joeys Mixed Blues vs Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys
 END:VEVENT
@@ -127,7 +127,7 @@ UID:u8dragons-20260801-1030@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260801T103000
 DTEND;TZID=Australia/Melbourne:20260801T113000
-SUMMARY:U8 U8 Dragons vs Casey Panthers SC U8 Yellow Panthers
+SUMMARY:U8 Dragons: Aspendale SC U8 Dragons vs Casey Panthers SC U8 Yellow Panthers
 LOCATION:Aspendale Gardens Sports Ground Pitch 1A\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
 DESCRIPTION:Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys vs Casey Panthers SC U08 MiniRoos - Joeys Mixed Yellow Panthers
 END:VEVENT
@@ -136,7 +136,7 @@ UID:u8dragons-20260808-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260808T090000
 DTEND;TZID=Australia/Melbourne:20260808T100000
-SUMMARY:U8 U8 Dragons vs Hampton Park United Sparrows FC U8 U8
+SUMMARY:U8 Dragons: Hampton Park United Sparrows FC U8 vs Aspendale SC U8 Dragons
 LOCATION:KM Reedy Reserve Pitch 1 - Midi Field B\, Hampton Park United Sparrows FC\, Pound Road\, Hampton Park VIC 3976
 DESCRIPTION:Hampton Park United Sparrows FC U08 MiniRoos - Joeys Mixed U8 vs Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys
 END:VEVENT
@@ -145,7 +145,7 @@ UID:u8dragons-20260815-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260815T090000
 DTEND;TZID=Australia/Melbourne:20260815T100000
-SUMMARY:U8 U8 Dragons vs Chelsea FC U8 Avengers
+SUMMARY:U8 Dragons: Chelsea FC U8 Avengers vs Aspendale SC U8 Dragons
 LOCATION:Edithvale Common Pitch 1A Midi\, 109-115 Edithvale Rd\, Edithvale VIC 3196
 DESCRIPTION:Chelsea FC U08 MiniRoos - Joeys Mixed Avengers vs Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys
 END:VEVENT
@@ -154,7 +154,7 @@ UID:u8dragons-20260822-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260822T090000
 DTEND;TZID=Australia/Melbourne:20260822T100000
-SUMMARY:U8 U8 Dragons vs Berwick City SC U8 U8 Eagles
+SUMMARY:U8 Dragons: Berwick City SC U8 Eagles vs Aspendale SC U8 Dragons
 LOCATION:Jack Thomas Reserve Junior 1 (7v7)\, Berwick City SC\, Fox Road\, Narre Warren North VIC 3805
 DESCRIPTION:Berwick City SC U08 MiniRoos - Joeys Mixed U8 Eagles vs Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys
 END:VEVENT
@@ -163,7 +163,7 @@ UID:u8dragons-20260829-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260829T090000
 DTEND;TZID=Australia/Melbourne:20260829T100000
-SUMMARY:U8 U8 Dragons vs U8 U8 Pegasus
+SUMMARY:U8 Dragons: Aspendale SC U8 Dragons vs Aspendale SC U8 Pegasus
 LOCATION:Aspendale Gardens Sports Ground Pitch 1A\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
 DESCRIPTION:Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys vs Aspendale SC U08 MiniRoos - Joeys Mixed U8 Pegasus (Sat) Boys
 END:VEVENT
@@ -172,7 +172,7 @@ UID:u8dragons-20260905-0900@openclaw
 DTSTAMP:20260502T000000Z
 DTSTART;TZID=Australia/Melbourne:20260905T090000
 DTEND;TZID=Australia/Melbourne:20260905T100000
-SUMMARY:U8 U8 Dragons vs FC Noble Hurricanes U8 MiniRoos - Joeys Mixed
+SUMMARY:U8 Dragons: FC Noble Hurricanes U8 MiniRoos - Joeys Mixed vs Aspendale SC U8 Dragons
 LOCATION:Alex Nelson Reserve Main Pitch - Midi Pitch B\, Harrisfield Hurricanes SC\, 31-57 Harold Road\, Springvale South VIC 3172
 DESCRIPTION:FC Noble Hurricanes U08 MiniRoos - Joeys Mixed vs Aspendale SC U08 MiniRoos - Joeys Mixed U8 Dragons (Sat) Boys
 END:VEVENT
