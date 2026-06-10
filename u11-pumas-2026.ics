@@ -68,4 +68,31 @@ SUMMARY:U11 Pumas: Aspendale SC U11 Pumas vs Hampton Park United Sparrows FC U11
 LOCATION:Aspendale Gardens Sports Ground Pitch 2A\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
 DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Hampton Park United Sparrows FC U11 MiniRoos - Wallabies Mixed U11
 END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260613-1035@openclaw
+DTSTAMP:20260502T000000Z
+DTSTART;TZID=Australia/Melbourne:20260613T103500
+DTEND;TZID=Australia/Melbourne:20260613T113500
+SUMMARY:U11 Pumas: Officer City FC U11 OCSC E vs Aspendale SC U11 Pumas
+LOCATION:Lakeside Reserve Junior Pitch 2\, Lakeside Recreation Reserve\, Shearwater Dr\, Pakenham VIC 3810
+DESCRIPTION:Officer City FC U11 MiniRoos - Wallabies Mixed OCSC E vs Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260620-1030@openclaw
+DTSTAMP:20260502T000000Z
+DTSTART;TZID=Australia/Melbourne:20260620T103000
+DTEND;TZID=Australia/Melbourne:20260620T113000
+SUMMARY:U11 Pumas: Aspendale SC U11 Pumas vs Endeavour United SC U11 Greg
+LOCATION:Aspendale Gardens Sports Ground Pitch 2B\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
+DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Endeavour United SC U11 MiniRoos - Wallabies Mixed Greg
+END:VEVENT
+BEGIN:VEVENT
+UID:u11pumas-20260627-1000@openclaw
+DTSTAMP:20260502T000000Z
+DTSTART;TZID=Australia/Melbourne:20260627T100000
+DTEND;TZID=Australia/Melbourne:20260627T110000
+SUMMARY:U11 Pumas: Berwick City SC U11 Sharks vs Aspendale SC U11 Pumas
+LOCATION:Jack Thomas Reserve Junior 1 (9v9)\, Berwick City SC\, Fox Road\, Narre Warren North VIC 3805
+DESCRIPTION:Berwick City SC U11 MiniRoos - Wallabies Mixed U11 Sharks vs Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys
+END:VEVENT
 END:VCALENDAR
