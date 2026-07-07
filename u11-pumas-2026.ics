@@ -96,12 +96,12 @@ LOCATION:Jack Thomas Reserve Junior 1 (9v9)\, Berwick City SC\, Fox Road\, Narre
 DESCRIPTION:Berwick City SC U11 MiniRoos - Wallabies Mixed U11 Sharks vs Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys
 END:VEVENT
 BEGIN:VEVENT
-UID:u11pumas-20260711-1000@openclaw
+UID:u11pumas-20260711-0900@openclaw
 DTSTAMP:20260502T000000Z
-DTSTART;TZID=Australia/Melbourne:20260711T100000
-DTEND;TZID=Australia/Melbourne:20260711T110000
+DTSTART;TZID=Australia/Melbourne:20260711T090000
+DTEND;TZID=Australia/Melbourne:20260711T100000
 SUMMARY:U11 Pumas: Aspendale SC U11 Pumas vs Chelsea FC U11 Cafu
-LOCATION:Aspendale Gardens Sports Ground Pitch 1A\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
+LOCATION:Aspendale Gardens Sports Ground Pitch 1B\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
 DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Chelsea FC U11 MiniRoos - Wallabies Mixed Cafu
 END:VEVENT
 BEGIN:VEVENT
