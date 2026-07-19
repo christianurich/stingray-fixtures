@@ -114,12 +114,12 @@ LOCATION:Prospect Hill Reserve SSF (U11)\, Casey Panthers Junior SC\, Kurrajong 
 DESCRIPTION:Casey Panthers SC U11 MiniRoos - Wallabies Mixed Black Panthers vs Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys
 END:VEVENT
 BEGIN:VEVENT
-UID:u11pumas-20260725-1000@openclaw
+UID:u11pumas-20260725-0900@openclaw
 DTSTAMP:20260502T000000Z
-DTSTART;TZID=Australia/Melbourne:20260725T100000
-DTEND;TZID=Australia/Melbourne:20260725T110000
+DTSTART;TZID=Australia/Melbourne:20260725T090000
+DTEND;TZID=Australia/Melbourne:20260725T100000
 SUMMARY:U11 Pumas: Aspendale SC U11 Pumas vs Sandringham SC U11 Phantoms
-LOCATION:Aspendale Gardens Sports Ground Pitch 1A\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
+LOCATION:Aspendale Gardens Sports Ground Pitch 1B\, Aspendale SC\, Kerr Cres\, Aspendale Gardens VIC 3195
 DESCRIPTION:Aspendale SC U11 MiniRoos - Wallabies Mixed U11 Pumas (Sat) Boys vs Sandringham SC U11 MiniRoos - Wallabies Mixed Phantoms
 END:VEVENT
 BEGIN:VEVENT
